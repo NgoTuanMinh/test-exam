@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  padding: 24px;
+}
+
+.wrap-table {
+  margin-top: 24px;
+  margin-bottom: 48px;
+}
+
+.wrap-button {
+  display: flex;
+}
+
+.wrap-input {
+  display: flex;
+}
